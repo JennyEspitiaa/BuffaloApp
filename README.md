@@ -9,6 +9,8 @@ Esta aplicación consiste en un mobile app que le permite al usuario registrar d
 
 ## 📂​ Estructura de carpetas
 
+``````
+
 ├───📁 public/
 │   └───📄 index.html
 |
@@ -45,6 +47,8 @@ Esta aplicación consiste en un mobile app que le permite al usuario registrar d
 ├───📄 package-lock.json
 ├───📄 package.json
 └───📄 README.md
+
+``````
 
 ## 📚​ Dependencias usadas
 
