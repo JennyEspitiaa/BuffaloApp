@@ -1,6 +1,7 @@
 import React from 'react'
 import {BtnSignIn, EmailInput, FacebookSignIn, ForgotPass, FormSignIn, GoogleSignIn, IconsMedia, LogoBtn, PasswordInput, QuestionSignIn, SignInText, SingInWith } from '../styles/styles'
 import { Link } from 'react-router-dom'
+// eslint-disable-next-line
 import { Formik, Form, Field} from 'formik'
 import * as Yup from 'yup'
 import { useDispatch } from 'react-redux'
